@@ -1,0 +1,15 @@
+var SouthDakota = [
+  'Sioux Falls, SD'
+,'Rapid City, SD'
+,'Aberdeen, SD'
+,'Brookings, SD'
+,'Watertown, SD'
+,'Mitchell, SD'
+,'Yankton, SD'
+,'Huron, SD'
+,'Pierre, SD'
+,'Spearfish, SD'
+,'Box Elder, SD'
+,'Vermillion, SD'
+,'Brandon, SD'
+];
