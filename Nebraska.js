@@ -1,0 +1,1 @@
+var Nebraska = ['Omaha, NE','Lincoln, NE','Bellevue, NE','Grand Island, NE','Kearney, NE','Fremont, NE','Hastings, NE','Norfolk, NE','Papillion, NE','Columbus, NE','North Platte, NE','La Vista, NE','Scottsbluff, NE','South Sioux City, NE','Beatrice, NE','Chalco, NE','Lexington, NE'];
