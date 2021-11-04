@@ -1,0 +1,1 @@
+var Idaho = ['Boise City, ID','Meridian, ID','Nampa, ID','Idaho Falls, ID','Caldwell, ID','Pocatello, ID',"Coeur d'Alene, ID",'Twin Falls, ID','Rexburg, ID','Post Falls, ID','Lewiston, ID','Eagle, ID','Moscow, ID','Kuna, ID','Ammon, ID','Mountain Home, ID','Hayden and Chubbuck, ID','Jerome, ID','Blackfoot, ID','Garden City, ID','Burley, ID','Star, ID'];
